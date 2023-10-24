@@ -1,4 +1,4 @@
-# Java-JSP
+# Java-JSP project 
 Ce projet offre une solution de gestion des machines via une interface web conviviale. Il permet aux 
 utilisateurs de gérer efficacement les informations relatives aux machines, notamment leur référence, 
 leur marque, leur prix, ainsi que leur affectation à une salle spécifique. Grâce à cette application, 
