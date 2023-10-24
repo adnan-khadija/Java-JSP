@@ -5,6 +5,10 @@ leur marque, leur prix, ainsi que leur affectation à une salle spécifique. Gr�
 les utilisateurs peuvent ajouter de nouvelles machines, afficher la liste existante et effectuer des 
 opérations de suppression si nécessaire. Cette interface web simplifie la gestion des machines, offrant 
 ainsi une expérience utilisateur améliorée pour les tâches de suivi et de maintenance.
+## Le diagramme de la classe :
+![image](https://github.com/adnan-khadija/Java-JSP/assets/147508009/13a26b49-b9c7-4d3b-bae0-9fbbdc970720)
+
+## L'interface WEB:
 
 ![image](https://github.com/adnan-khadija/Java-JSP/assets/147508009/8d759676-a233-4d0e-986f-526eba98b0d5)
 
